@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;:construction_worker: &nbsp;Computer Innovation Engineer.\
 &nbsp;&nbsp;&nbsp;:purple_heart: &nbsp;Passionate about learning Cybersecurity.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Experience in Frontend & Backend development, Wireless security, etc.\
-&nbsp;&nbsp;&nbsp;:floppy_disk: &nbsp;Love watching tech Youtubers!
+<!-- &nbsp;&nbsp;&nbsp;:floppy_disk: &nbsp;Love watching tech Youtubers! -->
 
 <p align="center">
   <a href="mailto:vorachat.so@gmail.com?subject=Hi%2c%20Vorachat%20Somsuay"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
