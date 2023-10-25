@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying at [CIE KMITL](https://cie.kmitl.ac.th/) \
 &nbsp;&nbsp;&nbsp;:construction_worker: &nbsp;Computer Innovation Engineer.\
 &nbsp;&nbsp;&nbsp;:purple_heart: &nbsp;Passionate about learning Cybersecurity.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Experience in Frontend & Backend development, Wireless security, etc.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Experience in Frontend & Backend development and Penetration testing
 <!-- &nbsp;&nbsp;&nbsp;:floppy_disk: &nbsp;Love watching tech Youtubers! -->
 
 <p align="center">
